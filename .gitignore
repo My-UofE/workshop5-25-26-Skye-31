@@ -1,0 +1,4 @@
+*.class
+tmpdir
+*.out
+*.out.bak

@@ -526,7 +526,7 @@ Where your Martian age is inserted to the nearest whole number.
 
  ii. you successfully commit and push your `StringFormatApp.java` file to the GitHub classroom repository where they can be accessed by the teaching staff. 
 
- ## Part B. Books and authors
+## Part B. Books and authors
 
  ### `Author.java`
 
